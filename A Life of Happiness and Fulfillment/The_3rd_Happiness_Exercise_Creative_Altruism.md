@@ -1,5 +1,5 @@
 ##  The 3rd Happiness Exercise: Creative Altruism ##
-## ------------------------------------------------- ##
+
 
 ## * Project Title ##
 =>Creative Altruism
@@ -20,7 +20,7 @@
 
 => I feel good at helping others, It makes me feel pleasant experiences. It encourages me in many ways It helps me in my humanity growth.
 ##   RUBRIC [5 Times] ##
-## --------- ##
+
 * Did the report contain a description of the idea and plan? – 4 points
 =>
 4 points

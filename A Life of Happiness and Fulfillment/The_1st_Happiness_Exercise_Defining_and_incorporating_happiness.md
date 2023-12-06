@@ -1,6 +1,6 @@
 
 ## The 1st Happiness Exercise: Defining and incorporating happiness ##
-## ------------------------------------------------------------------------ ## 
+
 
 ## * Project Title ##
 => The 1st Happiness Exercise: Defining and incorporating happiness
