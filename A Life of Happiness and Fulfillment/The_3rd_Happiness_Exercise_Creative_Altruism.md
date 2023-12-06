@@ -21,6 +21,7 @@
 ##   RUBRIC [5 Times] ##
 
 * Did the report contain a description of the idea and plan?– 4 points
+
 =>
 4 points
 Yes, substantially – 4 points
@@ -29,6 +30,7 @@ If not, please explain your reason to help your peer improve.
 -> Good
 
 * Did the report contain a description of how the student executed his/her idea and whether he/she managed to adhere to the "3 rules for giving" (contain cost of giving, have fun, and register impact)? – 1 point
+
 =>
 1 point
 Yes (even if minimally) – 1 point
@@ -37,6 +39,7 @@ If not, please explain your reason to help your peer improve.
 -> Good
 
 * Did the report describe how the recipient felt? And in answering this question, did you describe what the recipient said/did when he/she experienced your act? – 1 point
+
 =>
 1 point
 Yes (even if minimally) – 1 point
@@ -45,6 +48,7 @@ If not, please explain your reason to help your peer improve.
 -> Good
 
 * Did the report discuss how the whole experience made the student feel at various points (particularly when perpetrating your act and seeing the impact on the recipient)? – 4 points
+
 =>
 4 points
 Yes, substantially – 4 points
