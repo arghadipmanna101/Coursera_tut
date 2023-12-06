@@ -5,7 +5,7 @@
 ## * Project Title ##
 => The 1st Happiness Exercise: Defining and incorporating happiness
 
-## 1. What is your definition of happiness? Please write your answer below.##
+## 1. What is your definition of happiness? Please write your answer below. ##
 
 =>
 
