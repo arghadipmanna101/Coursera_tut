@@ -41,5 +41,5 @@ Did the report contain at least one thing that makes the student happy?
 4 points
 Yes – 4 points
 
-If not, please explain your reason to help your peer improve. 
+If not, please explain your reason to help your peer improve. <br>
 => Good
